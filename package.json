@@ -1,0 +1,19 @@
+{
+  "name": "deep-reef-brewery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max-spec007/Deep-Reef-Brewery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Max-spec007/Deep-Reef-Brewery/issues"
+  },
+  "homepage": "https://github.com/Max-spec007/Deep-Reef-Brewery#readme"
+}
